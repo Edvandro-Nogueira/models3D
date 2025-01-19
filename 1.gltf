@@ -1,1 +1,28 @@
-{"asset" : {"generator" : "Aspose.3D 24.9.1", "version" : "2.0"}, "scene" : 0, "scenes" : [{}]}
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.4.0)"
+    },
+    "extensionsUsed": [
+        "FB_ngon_encoding"
+    ],
+    "buffers": [
+        {
+            "byteLength": 0,
+            "uri": "1_0.bin"
+        }
+    ],
+    "nodes": [
+        {
+            "name": "1"
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
